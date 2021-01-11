@@ -1,0 +1,137 @@
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .home-content h1 {
+    font-size: 70px;
+  }
+  .home-button {
+    height: 60px;
+    width: 240px;
+    line-height: 60px;
+    color: #fff;
+    font-size: 17px;
+  }
+  input.sub-text {
+    width: 124px;
+  }
+  ul.footer-menu {
+    margin-right: 45px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .sec-pad-top {
+    padding-top: 110px;
+  }
+  .sec-pad-bottom {
+    padding-bottom: 110px;
+  }
+  header {
+    height: 100px;
+    line-height: 100px;
+  }
+  .main-menu li {
+    margin-left: 20px;
+    margin-right: 0px;
+    font-size: 14px;
+  }
+  .home-content h1 {
+    font-size: 60px;
+  }
+  .home-content p {
+    font-size: 20px;
+    margin-bottom: 60px;
+  }
+  .home-button {
+    height: 56px;
+    width: 200px;
+    line-height: 55px;
+  }
+  .section-title h3 {
+    font-size: 40px;
+  }
+  .section-title p {
+    font-size: 20px;
+  }
+  .section-title {
+    margin-bottom: 60px;
+  }
+  .single-service img {
+    max-height: 50px;
+    max-width: 50px;
+    margin-right: 15px;
+  }
+  .service-content h4 {
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+  .work-content.alt h5 {
+    font-size: 40px;
+  }
+  .work-content.alt p {
+    font-size: 20px;
+  }
+
+  .container .col-25 {
+    margin-bottom: 40px;
+  }
+  footer .col-25 {
+    width: 50%;
+  }
+  input.sub-text {
+    width: 74%;
+  }
+  .sub-button {
+    font-size: 13px;
+    height: 32px;
+    width: 85px;
+    box-shadow: none;
+  }
+  .copyright .col-50 {
+    padding: 0;
+  }
+  .footer-menu li {
+    font-size: 15px;
+    margin-left: 15px;
+  }
+  ul.footer-menu {
+    margin-right: 30px;
+  }
+  .up-arrow {
+    right: 10px;
+    bottom: 80px;
+  }
+  .copyright-text {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .col-25,
+  .col-20,
+  .col-33,
+  .col-50,
+  .col-80 {
+    width: 100%;
+  }
+  .top-bar {
+    height: auto;
+    background: #f5f7fa;
+    line-height: unset;
+    padding: 15px 0px;
+  }
+  .contact-info {
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .social-icon {
+    float: none;
+    text-align: center;
+    margin-left: -2px;
+    margin-right: 8px;
+  }
+  .contact-info span:last-child {
+    margin-right: 0;
+  }
+}
+fas
